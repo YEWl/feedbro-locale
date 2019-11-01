@@ -247,7 +247,7 @@
     "options_action_template_locale_title": "使用此模板将Feedbro翻译为其他语言.",
     "options_extensionclick_body": "Feedbro扩展图标单击",
     "options_extensionclick_select_title": "定义单击FeedBro扩展图标时发生的情况",
-    "options_extensionclick_popup_body": "打开弹出菜单（打开提要阅读器或扫描提要选项卡）",
+    "options_extensionclick_popup_body": "打开弹出菜单 (打开提要阅读器或扫描提要选项卡)",
     "options_extensionclick_reader_body": "打开订阅源阅读器",
     "options_loadingtimeout_body": "馈送加载超时",
     "options_loadingtimeout_select_title": "在超时超时和等待连接终止之前，等待单个馈送的最大时间",
