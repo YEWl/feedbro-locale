@@ -340,7 +340,7 @@
     "options_favicons_navigator_input_title": "如果选中，feedbro将根据feed树导航器中feed的html url使用favicons",
     "options_favicons_view3_body": "使用三面板视图标题列表中的favicons",
     "options_favicons_view3_input_title": "如果选中，feedbro将在三个面板视图的中间标题面板中显示favicons",
-    "options_favicons_fromline_body": "在文章‘from line’中使用favicons",
+    "options_favicons_fromline_body": "在文章‘起始行’中使用favicons",
     "options_popup_latest_body": "在弹出窗口中显示最新文章列表",
     "options_popup_latest_input_title": "如果选中，当点击FeedBro图标时，FeedBro将在弹出窗口中显示最新10篇未读文章的标题",
     "options_mathjax_body": "启用mathjax",
