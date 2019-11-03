@@ -13,4 +13,5 @@ https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_C
 简体中文 (zh_CN) 
 
 Feedbro RSS阅读器的简体中文语言文件
+
 您可以在以下位置下载Feedbro RSS阅读器: https://nodetics.com/feedbro
