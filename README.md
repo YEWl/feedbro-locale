@@ -18,3 +18,6 @@ Feedbro语言设置: Feedbro > Options/Settings Page > User interface language >
 https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json
 
 下载Feedbro RSS阅读器: https://nodetics.com/feedbro
+
+
+# GNU General Public License v3.0
