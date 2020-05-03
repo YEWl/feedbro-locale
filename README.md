@@ -1,4 +1,4 @@
-# feedbro-locale
+# Feedbro-locale
 
 Feedbro RSS Chinese language
 
