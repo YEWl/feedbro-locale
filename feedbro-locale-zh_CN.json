@@ -174,7 +174,7 @@
     "mainmenu_selectfolder_title": "单击以选择要保存源的文件夹-根目录是顶级文件夹",
     "mainmenu_button_subscribe": "订阅",
     "mainmenu_button_close": "关闭",
-    "mainmenu_error_duplicate_folder": "您已经订阅了名为 '{3}' 的文件夹 '{2}' 中的 '{1}' ",
+    "mainmenu_error_duplicate_folder": "您已经订阅了名为 '{3}' 的文件夹，在 '{2}' 中的 '{1}' ",
     "mainmenu_error_duplicate": "您已经订阅了名为 '{2}' 的 '{1}' ",
     "mainmenu_error_nothing_selected": "未选择源！",
     "mainmenu_error_nothing_found": "找不到源！",
