@@ -5,6 +5,7 @@
 In the settings of Feedbro deposit the following link to switch the user interface to Simplified Chinese
 
 Feedbro Language: Feedbro > Options/Settings Page > User interface language > Import locale > URL address of the Feedbro Locale (JSON-file)
+
 https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json
 
 ---
