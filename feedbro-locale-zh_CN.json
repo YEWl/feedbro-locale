@@ -1,10 +1,10 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.4.1",
+        "locale_version": "1.4.2",
         "locale_name": "简体中文",
         "locale_type": "zh_CN",
-        "locale_last_updated": "2021-4-8 08:46:25 UTC",
+        "locale_last_updated": "2021-4-8 14:05:00 UTC",
         "locale_author_name": "2220209876",
         "locale_author_email": "2220209876@msn.com",
         "locale_source_url": "https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json"
@@ -24,7 +24,7 @@
     "addfeed_entrycontent_select_fulltextimage_body": "使用文章主图像获取完整的文章正文",
     "addfeed_entrycontent_select_fulltextimage_title": "这是一个缓慢和不精确的方式来分析完整的文章内容。比如可读性每个feed文章都会导致一个单独的HTTP GET请求它并不适用于所有网站主图像取自og:image元数据。",
     "addfeed_entrycontent_select_fulltext_body": "获取全文正文",
-    "addfeed_entrycontent_select_fulltext_title": "这是一个缓慢和不精确的方式来分析完整的文章内容。比如可读性每个feed文章都会导致一个单独的HTTP GET请求它不适用于所有网站。",
+    "addfeed_entrycontent_select_fulltext_title": "以缓慢和不精确的方式来分析完整的文章内容。比如获取每个feed文章都会导致一个单独的HTTP GET请求。此选项不适用于所有网站。",
     "addfeed_scaninterval_body": "扫描间隔",
     "addfeed_scaninterval_default_body": "默认",
     "addfeed_scaninterval_select_title": "在下次扫描未读文章之前等待的分钟数",
