@@ -1,10 +1,10 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.4.6",
+        "locale_version": "1.4.7",
         "locale_name": "简体中文",
         "locale_type": "zh_CN",
-        "locale_last_updated": "2022-10-08 14:05:00 UTC",
+        "locale_last_updated": "2022-10-13 05:52:00 UTC",
         "locale_author_name": "2220209876&nkh0472",
         "locale_author_email": "2220209876@msn.com",
         "locale_source_url": "https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json"
@@ -133,7 +133,7 @@
     "frontpage_link_addfeed_title": "更快的方法：打开feed/web页面，单击Feedbro图标并选择 '在当前选项卡中查找Feed'",
     "frontpage_link_addfeed_icon_title": "更快的方法：打开feed/web页面，单击Feedbro图标并选择 '在当前选项卡中查找Feed'",
     "frontpage_link_addfeed_body": "添加新的源",
-    "frontpage_link_import_body": "导入源 \n 订阅 \n 作为 OPML",
+    "frontpage_link_import_body": "导入 \n OPML 格式的 \n 订阅源",
     "frontpage_link_settings_body": "设置",
     "frontpage_link_help_body": "帮助",
     "frontpage_description_body": "阅读新闻、博客或任何其他 RSS/Atom/RDF 源。",
